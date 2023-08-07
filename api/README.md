@@ -27,7 +27,7 @@ HBNB_API_HOST=0.0.0.0 HBNB_API_PORT=5000 python3 -m api.v1.app
 
 * Testing with Swagger:
 
-  * In browser visit path: `/apidocs` or:
+  * In the browser visit path: `/apidocs` or:
   * localhost: `http://0.0.0.0:5000/apidocs`
   * your dowmain: `http://yourdomain/apidocs`
 
